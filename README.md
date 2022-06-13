@@ -1,6 +1,6 @@
 ## Dart Exercises for Devera Course
 
-What ur looking for is in folder /bin :wink:
+What ur looking for is in folder **/bin** :wink:
 
 x 
 
