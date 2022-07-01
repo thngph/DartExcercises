@@ -4,7 +4,3 @@
 
 # Conventional directory for build output.
 build/
-
-pubspec.yaml
-pubspec.lock
-analysis_options.yaml
